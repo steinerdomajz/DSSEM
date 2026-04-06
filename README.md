@@ -24,8 +24,3 @@ This repository contains a demonstration of my final thesis project: an autonomo
 <img width="238" height="210" alt="DSSEM_Body_260216_view2" src="https://github.com/user-attachments/assets/fd92b73f-0874-4ca6-a178-2c18b305b599" />
 <img width="235" height="204" alt="DSSEM_Body_260216_view1" src="https://github.com/user-attachments/assets/7042332e-7d20-48af-a661-d71c717472ce" />
 <img width="169" height="106" alt="DSSEM_Ear_v01" src="https://github.com/user-attachments/assets/aed63da9-20c3-40ff-8fd1-bd20d8f6cdd6" />
-
-**Repository Structure:**
-- **/hardware**: Schematic and PCB layout files (KiCad).
-- **/mechanical**: 3D models of the device enclosure (SolidWorks).
-- **/firmware**: Embedded code for data acquisition and NB-IoT communication
