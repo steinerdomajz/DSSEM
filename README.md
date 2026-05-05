@@ -3,6 +3,7 @@
 **Master's Thesis Project** | Brno University of Technology (FEKT VUT)
 
 This repository contains a demonstration of my final thesis project: an autonomous IoT system designed for long-term monitoring of acoustic and light pollution in sensitive environments.
+
 Presentation available: DSSEM_presentation.pdf
 
 **Key Features**:
