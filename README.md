@@ -23,7 +23,7 @@ Presentation available: DSSEM_presentation.pdf
 
 --- **Firmware:** ---
 
-<img width="570" height="305" alt="image" src="https://github.com/user-attachments/assets/a277d1ad-21eb-4c1e-a557-5a9b9735518f" />
+<img width="285" height="152" alt="image" src="https://github.com/user-attachments/assets/a277d1ad-21eb-4c1e-a557-5a9b9735518f" />
 <img width="573" height="344" alt="image" src="https://github.com/user-attachments/assets/1b7d7960-f713-4718-894a-e0c4465156e7" />
 <img width="570" height="417" alt="image" src="https://github.com/user-attachments/assets/f99ad5e2-7c84-49ef-9eb0-7ebb6f89b8ec" />
 <img width="569" height="380" alt="image" src="https://github.com/user-attachments/assets/9bec05fa-1f74-470a-a623-1af847393037" />
