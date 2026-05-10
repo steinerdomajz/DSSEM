@@ -18,8 +18,7 @@ Presentation available: DSSEM_presentation.pdf
 
 --- **Hardware Design & Implementation:** ---
 
-<img width="288" height="212" alt="PCB_front_v02_edit" src="https://github.com/user-attachments/assets/96915915-e139-4961-afad-2fdb5e6d0c2f" />
-<img width="288" height="212" alt="PCB_back_v02_edit" src="https://github.com/user-attachments/assets/2aaf43f3-7eeb-4774-8cd1-8cd3ce4262fe" />
+<img width="576" height="424" alt="PCB_front_v02_edit" src="https://github.com/user-attachments/assets/96915915-e139-4961-afad-2fdb5e6d0c2f" />
 
 --- **Firmware:** ---
 
