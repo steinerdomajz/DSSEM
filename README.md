@@ -23,13 +23,13 @@ Presentation available: DSSEM_presentation.pdf
 
 --- **Firmware:** ---
 
-<img width="285" height="152" alt="image" src="https://github.com/user-attachments/assets/a277d1ad-21eb-4c1e-a557-5a9b9735518f" />
+<img width="570" height="305" alt="image" src="https://github.com/user-attachments/assets/a277d1ad-21eb-4c1e-a557-5a9b9735518f" />
 <img width="573" height="344" alt="image" src="https://github.com/user-attachments/assets/1b7d7960-f713-4718-894a-e0c4465156e7" />
 <img width="570" height="417" alt="image" src="https://github.com/user-attachments/assets/f99ad5e2-7c84-49ef-9eb0-7ebb6f89b8ec" />
 <img width="569" height="380" alt="image" src="https://github.com/user-attachments/assets/9bec05fa-1f74-470a-a623-1af847393037" />
 
 --- **Mechanical Design:** ---
 
-<img width="285" height="208" alt="image" src="https://github.com/user-attachments/assets/042733fc-095b-4184-b61d-b28b830544a0" />
-<img width="284" height="208" alt="image" src="https://github.com/user-attachments/assets/64786e83-4ae0-41a0-818c-1c301950ced7" />
-<img width="267" height="207" alt="image" src="https://github.com/user-attachments/assets/8351d37f-b182-4ab4-8a0f-b1eccb23f88e" />
+<img width="570" height="416" alt="image" src="https://github.com/user-attachments/assets/042733fc-095b-4184-b61d-b28b830544a0" />
+<img width="568" height="416" alt="image" src="https://github.com/user-attachments/assets/64786e83-4ae0-41a0-818c-1c301950ced7" />
+<img width="534" height="414" alt="image" src="https://github.com/user-attachments/assets/8351d37f-b182-4ab4-8a0f-b1eccb23f88e" />
