@@ -1,4 +1,3 @@
-
 # System for Environmental Monitoring in Protected Areas
 **Master's Thesis Project** | Brno University of Technology (FEKT VUT)
 
@@ -33,5 +32,4 @@ Presentation available: DSSEM_presentation.pdf
 <img width="334" height="408" alt="image" src="https://github.com/user-attachments/assets/f8217c15-18d5-4063-a6b9-99422b4308db" />
 <img width="317" height="458" alt="image" src="https://github.com/user-attachments/assets/e1b67a32-79d0-4902-80c3-f9a8d1616197" />
 <img width="546" height="428" alt="image" src="https://github.com/user-attachments/assets/7c499b79-f6b4-4b22-8da3-cde217b3c74d" />
-<img width="205" height="205" alt="image" src="https://github.com/user-attachments/assets/29f42e6c-fb0f-491f-9c4d-3c35dc13e52a" />
-
+<img width="205" height="205" alt="image" src="https://github.com/user-attachments/files/27572315/Main_loop_compressed.pdf" />
