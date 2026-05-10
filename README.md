@@ -21,15 +21,15 @@ Presentation available: DSSEM_presentation.pdf
 <img width="288" height="212" alt="PCB_front_v02_edit" src="https://github.com/user-attachments/assets/96915915-e139-4961-afad-2fdb5e6d0c2f" />
 <img width="288" height="212" alt="PCB_back_v02_edit" src="https://github.com/user-attachments/assets/2aaf43f3-7eeb-4774-8cd1-8cd3ce4262fe" />
 
+--- **Firmware:** ---
+
+<img width="570" height="305" alt="image" src="https://github.com/user-attachments/assets/a277d1ad-21eb-4c1e-a557-5a9b9735518f" />
+<img width="573" height="344" alt="image" src="https://github.com/user-attachments/assets/1b7d7960-f713-4718-894a-e0c4465156e7" />
+<img width="570" height="417" alt="image" src="https://github.com/user-attachments/assets/f99ad5e2-7c84-49ef-9eb0-7ebb6f89b8ec" />
+<img width="569" height="380" alt="image" src="https://github.com/user-attachments/assets/9bec05fa-1f74-470a-a623-1af847393037" />
+
 --- **Mechanical Design:** ---
 
 <img width="285" height="208" alt="image" src="https://github.com/user-attachments/assets/042733fc-095b-4184-b61d-b28b830544a0" />
 <img width="284" height="208" alt="image" src="https://github.com/user-attachments/assets/64786e83-4ae0-41a0-818c-1c301950ced7" />
 <img width="267" height="207" alt="image" src="https://github.com/user-attachments/assets/8351d37f-b182-4ab4-8a0f-b1eccb23f88e" />
-
---- **Firmware:** ---
-
-<img width="334" height="408" alt="image" src="https://github.com/user-attachments/assets/f8217c15-18d5-4063-a6b9-99422b4308db" />
-<img width="317" height="458" alt="image" src="https://github.com/user-attachments/assets/e1b67a32-79d0-4902-80c3-f9a8d1616197" />
-<img width="546" height="428" alt="image" src="https://github.com/user-attachments/assets/7c499b79-f6b4-4b22-8da3-cde217b3c74d" />
-<img width="205" height="205" alt="image" src="https://github.com/user-attachments/files/27572315/Main_loop_compressed.pdf" />
