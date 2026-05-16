@@ -32,3 +32,7 @@ Presentation available: DSSEM_presentation.pdf
 <img width="570" height="416" alt="image" src="https://github.com/user-attachments/assets/042733fc-095b-4184-b61d-b28b830544a0" />
 <img width="568" height="416" alt="image" src="https://github.com/user-attachments/assets/64786e83-4ae0-41a0-818c-1c301950ced7" />
 <img width="534" height="414" alt="image" src="https://github.com/user-attachments/assets/8351d37f-b182-4ab4-8a0f-b1eccb23f88e" />
+
+--- **User Configuration** ---
+[DSSEM_User_Config.pdf](https://github.com/user-attachments/files/27849603/DSSEM_User_Config.pdf)
+
