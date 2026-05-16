@@ -34,13 +34,15 @@ Presentation available: DSSEM_presentation.pdf
 <img width="534" height="414" alt="image" src="https://github.com/user-attachments/assets/8351d37f-b182-4ab4-8a0f-b1eccb23f88e" />
 
 --- **Implementation:** ---
-Node-RED Flowchart:\n
+Node-RED Flowchart:
 
 <img width="1664" height="150" alt="image" src="https://github.com/user-attachments/assets/58380698-bd36-4407-b01d-2625a2efaed0" />
-InfluxDB Visualisation:\n
+
+InfluxDB Visualisation:
 
 <img width="1402" height="399" alt="image" src="https://github.com/user-attachments/assets/199db47e-ae0c-4cc5-a200-d801ed95a035" />
-User Configuration Site (Web Serial API):\n
+
+User Configuration Site (Web Serial API):
 
 <img width="488" height="859" alt="image" src="https://github.com/user-attachments/assets/2e00a729-3231-4ced-aae3-0a4f558aeeba" />
 
